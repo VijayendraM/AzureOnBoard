@@ -1,0 +1,2 @@
+# Azure
+All Azure Templates
