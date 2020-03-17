@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "mspOfferName": {
+            "value": "Wipro"
+        },
+        "mspOfferDescription": {
+            "value": "Wipro Managed Serivces"
+        },
+        "managedByTenantId": {
+            "value": "258ac4e4-146a-411e-9dc8-79a9e12fd6da"
+        },
+        "authorizations": {
+            "value": [
+                {
+                    "principalId": "262345a5-e7cc-4642-ac02-4bee083a1c93",
+                    "principalIdDisplayName": "Vijayendra Meshram (CIS)",
+                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+                }              
+            ]
+        }
+    }
+}
