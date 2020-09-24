@@ -9,13 +9,13 @@
             "value": "Managed Serivces"
         },
         "managedByTenantId": {
-            "value": "ec17baae-24e1-4ab9-afcc-73feb86cc78f"
+            "value": "Service Provider's AD Tenant ID"
         },
         "authorizations": {
             "value": [
                 {
-                    "principalId": "2f8971b1-b3a9-434c-9adf-0e136bfcbc41",
-                    "principalIdDisplayName": "Managed Services LightHouse Testing",
+                    "principalId": "Azure AD ID of the Group or the User/App",
+                    "principalIdDisplayName": "Name Displayed for the Group/User/App",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
                 }
             ]
