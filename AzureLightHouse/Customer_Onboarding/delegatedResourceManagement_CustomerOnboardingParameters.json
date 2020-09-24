@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Wipro"
+            "value": "LightHouse"
         },
         "mspOfferDescription": {
-            "value": "Wipro Managed Serivces"
+            "value": "Managed Serivces"
         },
         "managedByTenantId": {
-            "value": "258ac4e4-146a-411e-9dc8-79a9e12fd6da"
+            "value": "ec17baae-24e1-4ab9-afcc-73feb86cc78f"
         },
         "authorizations": {
             "value": [
                 {
-                    "principalId": "262345a5-e7cc-4642-ac02-4bee083a1c93",
-                    "principalIdDisplayName": "Vijayendra Meshram (CIS)",
+                    "principalId": "2f8971b1-b3a9-434c-9adf-0e136bfcbc41",
+                    "principalIdDisplayName": "Managed Services LightHouse Testing",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
                 }
             ]
